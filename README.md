@@ -32,19 +32,9 @@ with tests, docs, operators, and clear runtime boundaries.
 | **Tensor** | ML training platform | MCP-aware PyTorch/TensorFlow training and inference platform with local LLM assistance, model context, health monitoring, and graceful degradation. |
 | **Turbo** | Vector search | Rust and Python vector quantization/search engine with compact low-bit indexes, SIMD-aware search, stable IDs, filtering, persistence, and framework adapters. |
 
-## Research And Lab Threads
-
-| Project | Thread |
-| --- | --- |
-| **Hunting** | Operational free-will experiments for agents: option generation, self-models, persistent goals, vetoes, and deliberation. |
-| **Kali** | Safe environment-inspection utilities for security labs without executing offensive tooling. |
-| **LanguageProject / Nexus** | Minimal `.nx` language runtime and site runner for experimenting with small custom language surfaces. |
-| **Sprint** | QA, resume, cover-letter, and automation tooling from a quality-engineering workflow. |
-
 ## How I Work
 
 I like systems that can explain themselves. The common shape across these
 projects is local-first operation, explicit state, reproducible tests, clear
 operator surfaces, and enough documentation for another engineer to inspect the
 whole thing without guessing where the important decisions live.
-
