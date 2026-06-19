@@ -24,7 +24,6 @@ with tests, docs, operators, and clear runtime boundaries.
 | **Gymnasium** | LLM training | Hand-written PyTorch language-model lab with pretraining, SFT, reward modeling, PPO, DPO, GRPO/RLVR, evaluation, Streamlit operations, and MkDocs guides. |
 | **Helios** | Security platform | Full-stack security assurance platform covering access control, audit logs, encrypted data, browser testing, threat workflows, SBOMs, CI security gates, and ITSG-33-style evidence. |
 | **Hephaestus** | AI engineering workflow | Local-first AI engineering control plane with SQLite-backed tickets, policy-gated execution, durable attempts, board projection, REST/SSE surfaces, and replayable evidence. |
-| **Hermes** | Bittensor operations | Rust-first Bittensor miner/validator operations stack with consensus tooling, Bun gateway, Kubernetes/Helm assets, retrieval-backed context, and observability. |
 | **Hydra** | Agentic stack | Production-oriented LLM workflow stack with model routing, multi-agent orchestration, RAG, policy-bounded tools, Qdrant memory, and Prometheus metrics. |
 | **Reach** | Repository intelligence | Long-context repo snapshot and prompt-pack system that budgets source context, captures dependency signals, and can query local or OpenAI-compatible model endpoints. |
 | **Sword** | AI systems learning | Learning-first AI systems stack that combines RAG, FastAPI serving, ML workflows, authentication, rate limiting, metrics, and repeatable tests. |
