@@ -1,5 +1,11 @@
 # k0jir0
 
+## [Ambrosia](https://github.com/k0jir0/Ambrosia)
+
+Ambrosia is an agentic investment decision platform. It turns a signal, alert,
+watchlist move, market question, or trade thesis into a structured, auditable,
+risk-aware review before capital is put at risk.
+
 I build local-first AI systems, security platforms, model-training tools, and
 governed engineering workflows. Most of my work lives under the McGillSoftware
 lab: practical prototypes that turn research ideas into inspectable software
