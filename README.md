@@ -1,11 +1,5 @@
 # k0jir0
 
-## [Ambrosia](https://github.com/k0jir0/Ambrosia)
-
-Ambrosia is an agentic investment decision platform. It turns a signal, alert,
-watchlist move, market question, or trade thesis into a structured, auditable,
-risk-aware review before capital is put at risk.
-
 I build local-first AI systems, security platforms, model-training tools, and
 governed engineering workflows. Most of my work lives under the McGillSoftware
 lab: practical prototypes that turn research ideas into inspectable software
@@ -23,6 +17,7 @@ with tests, docs, operators, and clear runtime boundaries.
 
 | Project | Area | What It Is |
 | --- | --- | --- |
+| **[Ambrosia](https://github.com/k0jir0/Ambrosia)** | Investment decisions | Agentic investment decision platform that turns a signal, alert, watchlist move, market question, or trade thesis into a structured, auditable, risk-aware review before capital is put at risk. |
 | **Apollo Context Management** | AI context governance | Enterprise context infrastructure for ownership, access, freshness, grounding, token packing, and preflight validation before an agent or model uses source material. |
 | **Arachne** | Agent fabric | Private control plane for registering AI workers, routing tenant-scoped tasks, recording event streams, and preserving artifacts for auditability. |
 | **Artemis** | Research governance | Research-library and project-grounding system for turning evidence into governed work items, source validation, and drift reports. |
