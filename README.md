@@ -1,9 +1,7 @@
 # k0jir0
 
-I build local-first AI systems, security platforms, model-training tools, and
-governed engineering workflows. Most of my work lives under the McGillSoftware
-lab: practical prototypes that turn research ideas into inspectable software
-with tests, docs, operators, and clear runtime boundaries.
+I build local-first AI systems, security platforms, model-training tools, and governed engineering workflows. 
+Most of my work consists of practical prototypes that turn research ideas from McGill University into inspectable software with tests, documentation, operational tooling, and clear runtime boundaries.
 
 ## Current Focus
 
