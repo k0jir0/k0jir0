@@ -30,7 +30,4 @@ I build local-first AI systems, security platforms, model-training tools, and go
 
 ## How I Work
 
-I like systems that can explain themselves. The common shape across these
-projects is local-first operation, explicit state, reproducible tests, clear
-operator surfaces, and enough documentation for another engineer to inspect the
-whole thing without guessing where the important decisions live.
+I design systems to be inspectable, explainable, and operationally explicit. Across these projects, that means local-first execution, well-defined state, reproducible validation, clear operator interfaces, and documentation that allows another engineer to trace the system’s architecture, behavior, and key design decisions without relying on implicit knowledge.
