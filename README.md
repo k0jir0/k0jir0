@@ -1,10 +1,10 @@
 # k0jir0
 
-I build local-first AI systems, security platforms, model-training tools, and governed engineering workflows. 
-Most of my work consists of practical prototypes that turn research ideas from McGill University into inspectable software with tests, documentation, operational tooling, and clear runtime boundaries.
+I build local-first AI systems, security platforms, model-training tools, and governed engineering workflows. My work focuses on turning research ideas from McGill University into practical, inspectable software with robust testing, clear documentation, operational tooling, and well-defined runtime boundaries.
 
 ## Current Focus
 
+- Agentic AI finance market intelligence
 - AI context management and repository intelligence
 - Governed agent execution and operator-in-the-loop automation
 - Local ML training, inference, evaluation, and model registry workflows
