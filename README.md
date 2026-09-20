@@ -25,6 +25,7 @@ I build local-first AI systems, security platforms, model-training tools, and go
 | **Hephaestus** | AI engineering workflow | Local-first AI engineering control plane with SQLite-backed tickets, policy-gated execution, durable attempts, board projection, REST/SSE surfaces, and replayable evidence. |
 | **Hydra** | Agentic stack | Production-oriented LLM workflow stack with model routing, multi-agent orchestration, RAG, policy-bounded tools, Qdrant memory, and Prometheus metrics. |
 | **Reach** | Repository intelligence | Long-context repo snapshot and prompt-pack system that budgets source context, captures dependency signals, and can query local or OpenAI-compatible model endpoints. |
+| **Spider** | Agentic AI CLI | Local-first tool-using AI agent with LangChain/LangGraph orchestration, local Qwen inference, bounded workspace tools, persistent SQLite sessions, and tool audit trails. |
 | **Sword** | AI systems learning | Learning-first AI systems stack that combines RAG, FastAPI serving, ML workflows, authentication, rate limiting, metrics, and repeatable tests. |
 | **Turbo** | Vector search | Rust and Python vector quantization/search engine with compact low-bit indexes, SIMD-aware search, stable IDs, filtering, persistence, and framework adapters. |
 
